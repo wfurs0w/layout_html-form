@@ -1,1 +1,8 @@
-/* styles go here */
+fieldset {
+  padding-bottom: 0;
+  margin-bottom: 20px;
+}
+
+div {
+  margin-bottom: 10px;
+}
